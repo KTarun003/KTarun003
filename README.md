@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm K Tarun Reddy</h1>
 <h3 align="center">A passionate Fullstack Developer.</h3>
-
+<a href="https://app.daily.dev/ktarunreddy"><img src="https://api.daily.dev/devcards/v2/eQhGgIg7pAFwnDKhk8fbg.png?r=2re&type=wide" width="652" alt="K Tarun Reddy's Dev Card"/></a>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
